@@ -1,2 +1,2 @@
-# PHPwithMySQL-argentinaTourism
-With the help of PHP with MYSQL using the software XAMPP, created a website to explore Argentina, book accommodations and transport tickets.
+# La Argentina Tourism
+I took a training course in PHP with MySQL during my summer break in 2016. As a part of a final evaluation, with 2 team members we created a website to explore Argentina, book accommodations and transport tickets.
